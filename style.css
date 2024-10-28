@@ -1,0 +1,105 @@
+table.lentele-1 {
+    border: 1px solid yellow;
+    background: yellow;
+    font-family: Playwrite GB S;
+    border-collapse: collapse;
+    width: 600px;
+}
+
+
+th {
+    padding: 20px;
+    background: rgb(245, 181, 19);
+    color: black;
+    text-align: center;
+    
+}
+
+tr {
+    background: rgb(80, 2, 143);
+    color: white;
+    text-align: left;
+}
+
+td {
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    border: 1px solid rgb(208, 158, 7);
+}
+
+
+
+
+.pavarde {
+    background: rgb(208, 158, 7);
+}
+
+
+/* ANTRA LENTA -------------------------------------------------------------------------------------- */
+table.lentele-2 {
+    border: 1px solid rgb(255, 255, 255);
+    background: yellow;
+    font-family: quicksand;
+    border-collapse: collapse;
+    width: 650px;
+    text-align: left;
+}
+
+table.lentele-2 th {
+    background: rgb(122, 0, 144);
+    border: 1px solid white;
+    text-align: left;
+    color: white;
+}
+
+table.lentele-2 tr:nth-of-type(even) {
+    background: rgb(253, 126, 255);
+}
+
+table.lentele-2 tr:nth-of-type(odd) {
+    background: rgb(151, 61, 137);
+}
+
+
+table.lentele-2 tr td {
+    border: 1px solid white;
+}
+
+
+
+
+/* TRECIA LENTA------------------------------------------------------------------------------------------ */
+
+table.lentele-3 {
+    border-collapse: collapse;
+    border: 2px solid black;
+    width: 400px;
+}
+
+table.lentele-3  tr {
+    background: white;
+}
+
+table.lentele-3 td {
+    color: black;
+    border: 2px solid black;
+    text-align: left;
+    padding-left: 7px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+
+
+.oranzine {
+    background: rgb(231, 153, 8);
+}
+
+.melyna {
+    background: rgb(35, 35, 209);
+}
+
+.zalia {
+    background: green;
+}
+
